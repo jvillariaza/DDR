@@ -1,0 +1,72 @@
+div {
+	font-size: 10pt;
+}
+
+.container {
+	border-left: 1px solid lightgray;
+	border-right: 1px solid lightgray;
+	background-color: white;
+}
+
+.trigger {
+	min-width: 200px;
+	min-height: 200px;
+	padding-top: 7%;
+}
+
+.triggers {
+	text-align: center;
+	margin-top: 10%;
+}
+
+.main-header {
+	margin-top: 5%;
+	background-color: #0275d8;
+	color: white;
+	font-weight: bolder;
+}
+
+.secondary-header {
+	margin-bottom: 5%;
+}
+
+.options {
+	margin-bottom: 5%;
+}
+
+.buttons {
+	max-width: 200px;
+	margin-left: 50px;
+	margin-bottom: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	vertical-align: middle;
+	white-space:normal;
+	word-wrap: break-all;
+}
+
+.options-l {
+	font-size: 9pt;
+	font-weight: bolder;
+}
+
+.drag-drop-options {
+	width: 120px;
+	min-height: 70px;
+}
+
+.texts-l {
+	font-size: 8pt;
+	border: 1px solid gray;
+	background-color: white;
+}
+
+.images-l {
+	width: 120px;
+	min-height: 70px;
+}
+
+.gray-btn {
+	background-color: gray;
+	color: white;
+}
